@@ -1,6 +1,10 @@
-#include <bits/stdc++.h>
-#include <ctime>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 #include <chrono>
+#include <cstdlib>
+#include <ctime>
+#include <cstdio>
 
 using namespace std;
 
